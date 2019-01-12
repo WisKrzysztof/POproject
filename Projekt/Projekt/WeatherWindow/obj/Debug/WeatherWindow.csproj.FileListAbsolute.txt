@@ -1,0 +1,36 @@
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe.config
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.pdb
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.pdb
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csprojResolveAssemblyReference.cache
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\App.g.cs
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.cache
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.lref
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.baml
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.g.resources
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.Properties.Resources.resources
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.GenerateResource.Cache
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.exe
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.pdb
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe.config
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.exe
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.pdb
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.pdb
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.dll
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.pdb
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.xml
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csprojResolveAssemblyReference.cache
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\App.g.cs
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.cache
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.lref
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.baml
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.g.resources
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.Properties.Resources.resources
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.GenerateResource.Cache
